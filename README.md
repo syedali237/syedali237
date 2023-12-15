@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @syedali237
+- 👀 I’m interested in Web Development, and Competitive Programming and quite curious about Open-Source...
+- 🌱 I’m currently learning Python, focusing on backend technologies...
+- 📫 You can reach out to me: at syedaliulhasan19@gmail.com...
+
+<!---
+syedali237/syedali237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
